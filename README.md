@@ -49,15 +49,15 @@ For more information about the course check [here](https://uspdigital.usp.br/jup
 
 The projects are Jupyter Notebooks divided in three subjects studied throughout the course:
 
-### [Data processing](https://github.com/brenoslivio/SME0828_DataScience/blob/master/Projects/1%20-%20Prepara%C3%A7%C3%A3o%20dos%20dados/Projeto1_Preparacao_dos_dados.ipynb)
+### [Data processing](https://nbviewer.jupyter.org/github/brenoslivio/SME0828_DataScience/blob/master/Projects/1%20-%20Prepara%C3%A7%C3%A3o%20dos%20dados/Projeto1_Preparacao_dos_dados.ipynb)
 
 The project consisted in studying the dataset Iris and BostonHouse for applying sampling techniques, creating histograms, detecting outliers using the interquartile range.
 
-### [Exploratory Data Analysis](https://github.com/brenoslivio/SME0828_DataScience/blob/master/Projects/2%20-%20An%C3%A1lise%20explorat%C3%B3ria%20de%20dados/Projeto2_Analise_Exploratoria_dos_dados.ipynb)
+### [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/brenoslivio/SME0828_DataScience/blob/master/Projects/2%20-%20An%C3%A1lise%20explorat%C3%B3ria%20de%20dados/Projeto2_Analise_Exploratoria_dos_dados.ipynb)
 
 Using previous dataset like Iris, the EDA consisted in plotting boxplot, violin plot, comparing Pearson and Spearman correlation and exploring the Anscombe's quartet.
 
-### [Classification](https://github.com/brenoslivio/SME0828_DataScience/blob/master/Projects/3%20-%20Classifica%C3%A7%C3%A3o/Projeto3_Classificacao.ipynb)
+### [Classification](https://nbviewer.jupyter.org/github/brenoslivio/SME0828_DataScience/blob/master/Projects/3%20-%20Classifica%C3%A7%C3%A3o/Projeto3_Classificacao.ipynb)
 
 The last project for the course consisted in data classification. The project used many different datasets to proper understand the classification process. We've studied classifiers like Parametric and Non Parametric Bayes, Naive Bayes, Logistic Regression, k-NN, Random Forest and SVM. Techniques like feature selection were used. Some notable datasets were [Star dataset to predict star types](https://www.kaggle.com/deepu1109/star-dataset), some UCI datasets and the famous [Titanic Dataset](https://www.kaggle.com/c/titanic).
 
