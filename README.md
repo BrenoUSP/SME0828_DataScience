@@ -59,7 +59,7 @@ Using previous dataset like Iris, the EDA consisted in plotting boxplot, violin 
 
 ### [Classification](https://nbviewer.jupyter.org/github/brenoslivio/SME0828_DataScience/blob/master/Projects/3%20-%20Classifica%C3%A7%C3%A3o/Projeto3_Classificacao.ipynb)
 
-The last project for the course consisted in data classification. The project used many different datasets to proper understand the classification process. We've studied classifiers like Parametric and Non Parametric Bayes, Naive Bayes, Logistic Regression, k-NN, Random Forest and SVM. Techniques like feature selection were used. Some notable datasets were [Star dataset to predict star types](https://www.kaggle.com/deepu1109/star-dataset), some UCI datasets and the famous [Titanic Dataset](https://www.kaggle.com/c/titanic).
+The last project for the course consisted in data classification. The project used many different datasets to proper understand the classification process. We've studied classifiers like Parametric and Non Parametric Bayes, Naive Bayes, Logistic Regression, k-NN, Random Forest and SVM. Techniques like feature selection were used. Some notable datasets were [Star dataset to predict star types](https://www.kaggle.com/deepu1109/star-dataset), some [UCI datasets](http://archive.ics.uci.edu/ml/index.php) and the famous [Titanic Dataset](https://www.kaggle.com/c/titanic).
 
 <!-- GETTING STARTED -->
 ## Getting Started
